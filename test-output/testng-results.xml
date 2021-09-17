@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="200" started-at="2021-02-01T12:23:01Z" finished-at="2021-02-01T12:23:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="200" started-at="2021-02-01T12:23:01Z" finished-at="2021-02-01T12:23:02Z">
+      <class name="com.CRM.qa.testcases.Testng">
+        <test-method status="PASS" signature="b()[pri:0, instance:com.CRM.qa.testcases.Testng@16e7dcfd]" name="b" duration-ms="39" started-at="2021-02-01T17:53:01Z" finished-at="2021-02-01T17:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="c()[pri:0, instance:com.CRM.qa.testcases.Testng@16e7dcfd]" name="c" duration-ms="5" started-at="2021-02-01T17:53:02Z" finished-at="2021-02-01T17:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method status="PASS" signature="a()[pri:1, instance:com.CRM.qa.testcases.Testng@16e7dcfd]" name="a" duration-ms="11" started-at="2021-02-01T17:53:02Z" finished-at="2021-02-01T17:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+      </class> <!-- com.CRM.qa.testcases.Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
